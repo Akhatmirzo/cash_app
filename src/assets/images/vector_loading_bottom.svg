@@ -1,0 +1,32 @@
+<svg width="670.000000" height="609.000000" viewBox="0 0 670 609" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_101_117_dd" x="40.620361" y="12.620331" width="624.759277" height="547.759277" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="68.4599" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_101_118_dd" x="-0.455566" y="-0.455597" width="669.911133" height="608.911133" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="82.1519" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_101_119_dd" x="124.611816" y="162.053116" width="346.616943" height="334.897095" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="41.0759" result="effect_layerBlur_1"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_101_117_dd)">
+		<path id="Vector 14" d="M265.7 218.1C281.99 220.04 322.38 262.4 362.39 284.78C396.43 303.83 426.01 294.64 452.24 323.63C501.56 378.13 300.59 350.56 271.64 323.63C240.79 294.94 236.52 214.63 265.7 218.1Z" fill="#0014FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+	<g filter="url(#filter_101_118_dd)">
+		<path id="Vector 15" d="M262.29 246.09C275.77 247.73 309.17 283.59 342.26 302.54C370.42 318.67 394.88 310.89 416.58 335.44C457.37 381.58 291.15 358.24 267.21 335.44C241.69 311.14 238.16 243.15 262.29 246.09Z" fill="#8020EF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+	<g filter="url(#filter_101_119_dd)">
+		<path id="Vector 16" d="M330.87 356.76C335.07 353.08 299.22 319.38 277.79 305.62C256.36 291.86 262.57 317.47 281.32 332.89C296.92 345.73 326.66 360.44 330.87 356.76Z" fill="#FF2CDF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<path id="Vector 16" d="M330.87 356.76C326.66 360.44 296.92 345.73 281.32 332.89C262.57 317.47 256.36 291.86 277.79 305.62C299.22 319.38 335.07 353.08 330.87 356.76Z" stroke="#FCA9C7" stroke-opacity="1.000000" stroke-width="32.860748"/>
+</svg>

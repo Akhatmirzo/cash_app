@@ -1,0 +1,25 @@
+.bgGradient {
+  box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.25);
+  background: radial-gradient(
+      66.57% 239.63% at 250% -17%,
+      rgba(12, 10, 48, 0.99),
+      rgba(184, 180, 255, 0) 100%
+    ),
+    radial-gradient(
+      94.83% 366.96% at -206% 139%,
+      rgba(11, 9, 46, 0.55),
+      rgba(184, 180, 255, 0) 100%
+    ),
+    rgb(7, 6, 40);
+}
+
+.myClass {
+  width: 100%;
+  height: 100%;
+  border: 4px solid transparent;
+  border-radius: 100%;
+  background: linear-gradient(to right, rgba(11, 9, 46, 0.55), rgb(7, 6, 40)),
+    linear-gradient( #FF2CDF, #0014FF);
+  background-clip: padding-box, border-box;
+  background-origin: padding-box, border-box;
+}
