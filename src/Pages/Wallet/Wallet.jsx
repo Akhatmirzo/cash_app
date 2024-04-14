@@ -123,7 +123,7 @@ export default function Wallet() {
                 }
               })
             ) : (
-              <h1>No Transactions</h1>
+              <h1 className="text-white text-center w-full p-3" >No Transactions</h1>
             )}
           </div>
         </div>
